@@ -8,5 +8,7 @@ Send them to info@carlingtoncoffeehouse.com.
 
 ## Table of Contents
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-* [Training Policy](policies/training_policy.md)
+### Policies
+* [Training](policies/training_policy.md)
+* [Vacation]()
+* [Health & Safety]()
