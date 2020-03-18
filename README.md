@@ -11,4 +11,4 @@ Send them to info@carlingtoncoffeehouse.com.
 ### Policies
 * [Training](policies/training_policy.md)
 * [Vacation]()
-* [Health & Safety]()
+* [Health & Safety](policies/health_and_safety.md)
