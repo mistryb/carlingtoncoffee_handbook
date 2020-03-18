@@ -9,4 +9,4 @@ Send them to info@carlingtoncoffeehouse.com.
 ## Table of Contents
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-* [documentation](https://help.github.com/categories/github-pages-basics/)
+* [Training Policy](training_policy.md)
