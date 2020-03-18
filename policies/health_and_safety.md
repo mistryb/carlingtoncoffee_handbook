@@ -41,14 +41,14 @@ We may use a range of chemicals in the Coffee shop to ensure that surfaces, dish
 * Used for cleaning and disinfecting floors and surfaces. 
 * To be diluted prior to use.
 * If transfered from the original container, the new container shall be appropriately labeled with the name and dilution.
-* **MSDS :** https://www.sprproductinformation.com/SDS/ODO/911062-G4.pdf
+* [**MSDS**](https://www.sprproductinformation.com/SDS/ODO/911062-G4.pdf)
 
 #### ATO QUAT Liquid Disinfectant
 * Used for sanitizing dishes
 * To be diluted prior to use
   * 2mL / L for triple sink sanitation
-* Manufacturer usage instructions : https://sites.google.com/a/promedic-online.com/spec-chems-and-biotech/products/ato-quat
-* **MSDS :** https://www.mae.gov.nl.ca/env_assessment/projects/Y2005/1203/1203_MSDSATOQUAT.pdf
+* [Manufacturer usage instructions](https://sites.google.com/a/promedic-online.com/spec-chems-and-biotech/products/ato-quat)
+* [**MSDS**](https://www.mae.gov.nl.ca/env_assessment/projects/Y2005/1203/1203_MSDSATOQUAT.pdf)
 
 ## <a name="ppe"></a>Personal Protective Equipment
 * Oven mits : These can be used to handle extremely hot items that could pontentially cause burns. Oven mitts will be supplied in the kitchen area.
