@@ -1,21 +1,21 @@
 # Espresso Procedures
 These procedures are for everything **espresso**. Proper use and cleaning are important to ensure our equipment has a long and healthy life. You can find information on the following in these procedures:
-* Machine & Station
+* [Machine & Station](#machine)
   * Operation
-  * Daily Cleaning (Pre-close)
-  * Weekly Deep Cleaning
-* Grinder 
+  * [Daily Cleaning (Pre-close)](#machine_daily)
+  * [Weekly Deep Cleaning](#machine_weekly)
+* [Grinder](#grinder)
   * Operation
-  * Daily Cleaning
-  * Weekly Deep Cleaning
+  * [Daily Cleaning](#grinder_daily)
+  * [Weekly Deep Cleaning](#grinder_weekly)
   
-## Machine & Station
+## <a name="machine"></a> Machine & Station
 Our shop is equipped with a Saeco SE2000. The instruction manual can be downloaded from the following URL: 
 * https://github.com/mistryb/carlingtoncoffee_handbook/raw/master/AROMA-SE_Manual.pdf
 
 **This machine produces immense amount of steam and piping hot water that can be dangerous if not used correctly. Please refer to our [Health and Safety Policy](policies/health_and_safety.md) on how to stay safe when using this machine.**
 
-### Daily Cleaning
+### <a name="machine_daily"></a> Daily Cleaning
 #### Espresso Station Pre-close
 1. Leave 1-2 steaming pitchers out. Scrub the rest with hot soapy water. Leave to dry overnight
 2. Remove syrup bottle lids and clean with hot water. Restock, wipe outsides, put lids on tightly
@@ -46,14 +46,14 @@ Our shop is equipped with a Saeco SE2000. The instruction manual can be download
 7. Empty grind pucks into compost bin and wash knockbox. Leave to dry overnight.
 8. Wash espresso groomer, tamp and tamp mat with hot, soapy water, leave out to dry
 9. Empty compost bin when full!
-### Weekly Deep Cleaning
+### <a name="machine_weekly"></a> Weekly Deep Cleaning
 1. Follow daily steps and turn off machine when done
 2. Remove all cups from top of machine. Wipe/clean the top of the machine well. Put cups back.
 
-## Grinder 
+## <a name="grinder"></a> Grinder 
 Our shop is equipped with a Santos 40A Espresso Grinder. The instruction manual can be downloaded from the following URL: 
 * https://github.com/mistryb/carlingtoncoffee_handbook/raw/master/SANTOS_06-40-manu-EN-last.pdf
-### Daily Cleaning
+### <a name="grinder_daily"></a> Daily Cleaning
 1. Turn off and unplug the grinder
 2. Close siler flap in hopper, lift hopper off machine and return espresso beans to its respective bag. 
 3. Remove any pre-ground espresso beans (store in a container labelled “staff beans' ' so they aren't completely wasted!)
@@ -64,7 +64,7 @@ Our shop is equipped with a Santos 40A Espresso Grinder. The instruction manual 
 8. If safely possible, slide the grinder to the side and clean the counter underneath, behind, and around the grinder, ensuring all coffee grinds are wiped away. Wipe walls behind if needed. Slide grinder back into place
 9. Dry the hopper and lid, and place back on top of the grinder, with the lid closed
 10. Plug grinder back in.
-### Weekly Deep Clean
+### <a name="grinder_weekly"></a> Weekly Deep Clean
 1. Turn off and unplug the grinder
 2. Close the silver flap of the upper basket, then remove and return espresso beans to its respective bag.
 3. Place basket back onto grinder.
