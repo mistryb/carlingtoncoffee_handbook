@@ -12,3 +12,6 @@ Send them to info@carlingtoncoffeehouse.com.
 * [Training](policies/training_policy.md)
 * [Vacation]()
 * [Health & Safety](policies/health_and_safety.md)
+
+### Procedures
+* [Batch Brew](policies/batch_brew.md)
