@@ -14,4 +14,4 @@ Send them to info@carlingtoncoffeehouse.com.
 * [Health & Safety](policies/health_and_safety.md)
 
 ### Procedures
-* [Batch Brew](policies/batch_brew.md)
+* [Batch Brew](procedures/batch_brew.md)
