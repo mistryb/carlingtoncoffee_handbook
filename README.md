@@ -15,3 +15,4 @@ Send them to info@carlingtoncoffeehouse.com.
 
 ### Procedures
 * [Batch Brew](procedures/batch_brew.md)
+* [Espresso](procedures/espresso.md)
