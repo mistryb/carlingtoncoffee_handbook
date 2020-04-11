@@ -11,7 +11,7 @@ These procedures are for everything **espresso**. Proper use and cleaning are im
   
 ## <a name="machine"></a> Machine & Station
 Our shop is equipped with a Saeco SE2000. The instruction manual can be downloaded from the following URL: 
-* https://github.com/mistryb/carlingtoncoffee_handbook/raw/master/AROMA-SE_Manual.pdf
+* [Download Manual](https://github.com/mistryb/carlingtoncoffee_handbook/raw/master/AROMA-SE_Manual.pdf)
 
 **This machine produces immense amount of steam and piping hot water that can be dangerous if not used correctly. Please refer to our [Health and Safety Policy](policies/health_and_safety.md) on how to stay safe when using this machine.**
 
@@ -52,7 +52,7 @@ Our shop is equipped with a Saeco SE2000. The instruction manual can be download
 
 ## <a name="grinder"></a> Grinder 
 Our shop is equipped with a Santos 40A Espresso Grinder. The instruction manual can be downloaded from the following URL: 
-* https://github.com/mistryb/carlingtoncoffee_handbook/raw/master/SANTOS_06-40-manu-EN-last.pdf
+* [Download Manual](https://github.com/mistryb/carlingtoncoffee_handbook/raw/master/SANTOS_06-40-manu-EN-last.pdf)
 ### <a name="grinder_daily"></a> Daily Cleaning
 1. Turn off and unplug the grinder
 2. Close siler flap in hopper, lift hopper off machine and return espresso beans to its respective bag. 
